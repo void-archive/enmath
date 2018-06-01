@@ -6,5 +6,5 @@ Not to be confused with [Enmap](https://github.com/eslachance/enmap) by [Evie.co
 
 ## Locales
 
-If you don't understand the master branch (English locale), you may change your branch to another one that you can understand.  
+If you don't understand the README on the master branch (English locale), you may change your branch to another one that you can understand.  
 Don't see your language? Send us a pull request!
